@@ -1,4 +1,4 @@
-### This repo was created just for storing images for URL only.
+### For Storing Images Only.
 
 All those images/svg url were used in Excel VBA to calculate student score.
 
